@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Build outputs
+build/
+dist/
+*.app
+*.dmg
+*.o
+*.dSYM/
+
+# Temporary and reference files
+MacRazer/
+test_*
+*.m.bak
